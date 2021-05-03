@@ -1,5 +1,4 @@
 ## Crossplane Conformance Program
-=======
 The Crossplane community continues to grow with new contributors, adopters, and vendors.  As the
 diversity of the community and its needs has grown, a large ecosystem of extensions to Crossplane's
 functionality, known as Providers, has also been established to provision and manage infrastructure
