@@ -62,5 +62,5 @@ and greatest developments from the community.
 * [Instructions](instructions.md)
 * [Terms and Conditions](terms-conditions/terms-and-conditions.md)
 * [Participation Form](participation-form/participation-form.md)
-* Brand Guidelines (coming soon)
-* Logos (coming soon)
+* [Brand Guidelines](https://github.com/cncf/artwork/pull/241)
+* [Logos](https://github.com/cncf/artwork/pull/241)
